@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: .\forms.py:60
-msgid "This field is required."
+msgid "This field is required"
 msgstr ""
 
 #: .\templates\data_exports\ptree.html:56
